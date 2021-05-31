@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>Hello, Welcome to my photography world</h1>
+        <h2>Mon Jun 31 2021</h2>
+        
+          <hr>
+    <span class= "sp" onclick="span()">
+      <img src= "https://images.unsplash.com/photo-1552727451-6f5671e14d83?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ">
+      </span>
+           <hr>
+    <span class= "sp" onclick="span()">
+      <img src= "https://images.unsplash.com/photo-1552727451-6f5671e14d83?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ">
+      </span>
+           <hr>
+    <span class= "sp" onclick="span()">
+      <img src= "https://images.unsplash.com/photo-1552727451-6f5671e14d83?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ">
+      </span>
+           <hr>
+    <span class= "sp" onclick="span()">
+      <img src= "https://images.unsplash.com/photo-1552727451-6f5671e14d83?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ">
+      </span>
